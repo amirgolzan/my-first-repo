@@ -1,0 +1,13 @@
+---
+title: "Professional Post"
+author: "Amir Golzan"
+date: "2024-12-13"
+categories: [jekyll, tutorial]
+---
+# Welcome to My Blog Post!
+
+## Subheading Example
+
+### Smaller Subheading
+
+![Alt Text](/Users/amirgolzan/my-site/my-first-repo/_src/example-figure.png)
